@@ -1,0 +1,9 @@
+name: shakti-music-bot
+services:
+  - name: bot
+    type: web
+    env: docker
+    ports:
+      - port: 8000
+    routes:
+      - path: /
