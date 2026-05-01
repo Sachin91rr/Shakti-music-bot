@@ -1,2 +1,2 @@
-# Shakti-music-bot
-Music bot 
+# Shakti Cineplex Music 🌈
+Deploy-ready starter scaffold.
