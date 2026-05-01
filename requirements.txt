@@ -1,0 +1,11 @@
+pyrogram
+tgcrypto
+motor
+python-dotenv
+yt-dlp
+youtube-search-python
+spotipy
+aiohttp
+ffmpeg-python
+pytgcalls
+requests
